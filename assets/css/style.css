@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main .formulario {
+  width: 80%;
+}
+@media (max-width: 768px) {
+  main .formulario {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
